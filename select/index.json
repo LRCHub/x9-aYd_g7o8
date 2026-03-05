@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "一生僕ら恋をしよう",
+  "base_artist": "ねぐせ。",
+  "createdAt": "2026-03-05T13:56:55.659061Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一生僕ら恋をしよう",
+      "artist": "ねぐせ。",
+      "has_synced": false,
+      "path": "select/pl_01_一生僕ら恋をしよう_ねぐせ。.txt"
+    }
+  ]
+}
